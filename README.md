@@ -19,3 +19,5 @@ npm i
 npm start
 npm test
 ```
+
+[Testing materials](https://github.com/BitAdemy/WebTesting)
