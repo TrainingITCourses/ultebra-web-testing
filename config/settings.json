@@ -1,5 +1,5 @@
 {
-  "baseURL": "https://angular.builders",
+  "baseURL": "https://ultebra.eu",
   "puppeteer": {
     "headless": false,
     "defaultViewport": {
