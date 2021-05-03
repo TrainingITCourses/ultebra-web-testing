@@ -1,20 +1,20 @@
 {
-  "name": "ultreba-web-testing",
+  "name": "ultebra-web-testing",
   "version": "1.0.0",
-  "description": "ultreba web testing",
+  "description": "ultebra web testing",
   "author": {
     "name": "Alberto Basalo",
     "email": "learn@bitademy.com",
     "url": "https://twitter.com/albertobasalo"
   },
-  "homepage": "https://github.com/AtomicBuilders/ultreba-web-testing#readme",
+  "homepage": "https://github.com/AtomicBuilders/ultebra-web-testing#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AtomicBuilders/ultreba-web-testing.git"
+    "url": "git+https://github.com/AtomicBuilders/ultebra-web-testing.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AtomicBuilders/ultreba-web-testing/issues"
+    "url": "https://github.com/AtomicBuilders/ultebra-web-testing/issues"
   },
   "scripts": {
     "start": "node ./dist/src/main.js",
