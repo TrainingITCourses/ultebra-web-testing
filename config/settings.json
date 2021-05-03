@@ -1,0 +1,11 @@
+{
+  "baseURL": "https://angular.builders",
+  "puppeteer": {
+    "headless": false,
+    "defaultViewport": {
+      "width": 1080,
+      "height": 1920,
+      "isMobile": false
+    }
+  }
+}
