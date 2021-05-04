@@ -14,8 +14,8 @@ describe('Given: Contact form', () => {
       await page.click('#sendContact');
     });
     test('Then:', async () => {
-      await page.waitForSelector('.success');
-      const actual = await page.$eval('.success', el => el.innerHTML);
+      await page.waitForSelector('.bg-success');
+      const actual = await page.$eval('#sendContact', el => el.innerHTML);
       // Assert
       const expected = 'OK';
       expect(actual).toContain(expected);

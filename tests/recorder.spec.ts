@@ -23,6 +23,7 @@
 
   await page.waitForSelector('.row #sendContact');
   await page.click('.row #sendContact');
+  
 
   await page.waitForSelector('.row #sendContact');
   await page.click('.row #sendContact');

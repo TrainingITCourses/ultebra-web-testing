@@ -1,7 +1,7 @@
 {
   "baseURL": "https://ultebra.eu",
   "puppeteer": {
-    "headless": false,
+    "headless": true,
     "defaultViewport": {
       "width": 1080,
       "height": 1920,
