@@ -1,4 +1,4 @@
-# ultreba-web-testing
+# ultebra-web-testing
 
 A metrics collector and smoke test runner based on Puppeteer
 
@@ -31,4 +31,4 @@ npm test
 
 [puppeteer recipes](https://addyosmani.com/blog/puppeteer-recipes/)
 [learning puppeteer](https://nitayneeman.com/posts/learning-puppeteer-in-stride-through-short-videos/)
-[Headless Testing with Playwright and Jest] (https://dev.to/headlesstesting/headless-testing-with-playwright-and-jest-5co3)
+[Headless Testing with Playwright and Jest](https://dev.to/headlesstesting/headless-testing-with-playwright-and-jest-5co3)
