@@ -20,4 +20,15 @@ npm start
 npm test
 ```
 
-[Testing materials](https://github.com/BitAdemy/WebTesting)
+### Resources
+
+[Intro Testing blog tutorial](https://github.com/BitAdemy/WebTesting)
+[Puppeteer Lighthouse blog tutorial](https://www.bitademy.com/tutorial/web-testing/e2e/)
+[Puppeteer Lighthouse demo tutorial](https://github.com/LabsAdemy/WebTesting_e2e-puppeteer_Labs)
+[Puppeteer Lighthouse muon: real example ](https://github.com/AtomicBuilders/muon)
+
+### More...
+
+[puppeteer recipes](https://addyosmani.com/blog/puppeteer-recipes/)
+[learning puppeteer](https://nitayneeman.com/posts/learning-puppeteer-in-stride-through-short-videos/)
+[Headless Testing with Playwright and Jest] (https://dev.to/headlesstesting/headless-testing-with-playwright-and-jest-5co3)
